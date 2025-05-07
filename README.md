@@ -52,7 +52,7 @@ git clone https://github.com/yourusername/decision-tree-smote-project.git
 2. Navigate to the project directory:
  cd decision-tree-smote-project
 3. Install the required packages:
-pip install -r requirements.txt
+   pip install -r requirements.txt
 4. Run the Jupyter notebooks to explore the data and train the model.
 ## Acknowledgements
 I would like to thank SkillCraft Technologies for providing me with this exciting opportunity to work on this project and enhance my data science skills.
