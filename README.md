@@ -50,7 +50,7 @@ The dataset used in this project is sourced from a bank marketing campaign. It c
 1. Clone the repository:
 git clone https://github.com/yourusername/decision-tree-smote-project.git
 2. Navigate to the project directory:
- cd decision-tree-smote-project
+cd decision-tree-smote-project
 3. Install the required packages:
    pip install -r requirements.txt
 4. Run the Jupyter notebooks to explore the data and train the model.
